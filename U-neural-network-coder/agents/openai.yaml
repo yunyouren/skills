@@ -1,0 +1,11 @@
+display_name: "U-Neural Network Coder"
+short_description: "Build, train, and optimize PyTorch neural networks"
+default_prompt: "Help me build a neural network for my classification task"
+icon: "🧠"
+brand_color: "#EE4C2C"
+tags:
+  - pytorch
+  - neural-network
+  - deep-learning
+  - training
+  - model-export

@@ -1,0 +1,11 @@
+display_name: "U-MATLAB Simulink Coder"
+short_description: "Build and tune MATLAB/Simulink workflows for control and neural-ODE"
+default_prompt: "Help me build a MATLAB Simulink simulation for control systems"
+icon: "⚙️"
+brand_color: "#E67700"
+tags:
+  - matlab
+  - simulink
+  - control-systems
+  - simulation
+  - neural-ode
